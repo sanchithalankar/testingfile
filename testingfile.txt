@@ -5,3 +5,5 @@ Lets dive in Git world
 welcome to Git
 
 Let's get started with Git concepts
+
+Editing the file
